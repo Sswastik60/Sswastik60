@@ -11,16 +11,14 @@
 - React Native
 - Node.js
 - Express.js
-- PostgreSQL
+- C++
+- Java
+- Python
+- Seaborn
 - JavaScript
 - Git & GitHub
 
-## Current Projects
-
-- 🚍 NavifyX – Public transport tracking
-- 🎓 Collexa – College networking platform
-
 ## Connect with me
 
-- LinkedIn: your-link
+- LinkedIn: www.linkedin.com/in/swastik-sharma-76719336a
 - Portfolio: your-link
