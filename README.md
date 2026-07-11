@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Swastik Sharma 👋
 
-<!--
-**Sswastik60/Sswastik60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
+💻 Full Stack Developer (MERN/PERN)
+📱 React Native Developer
+🌱 Currently learning DSA in C++
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- React Native
+- Node.js
+- Express.js
+- PostgreSQL
+- JavaScript
+- Git & GitHub
+
+## Current Projects
+
+- 🚍 NavifyX – Public transport tracking
+- 🎓 Collexa – College networking platform
+
+## Connect with me
+
+- LinkedIn: your-link
+- Portfolio: your-link
