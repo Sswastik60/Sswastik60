@@ -1,9 +1,13 @@
 # Hi, I'm Swastik Sharma 👋
 
 🎓 B.Tech CSE Student
+
 💻 MERN Stack & React Native Developer
+
 🌱 Currently learning DSA in C++
+
 🚀 Building full-stack applications
+
 
 ## 🛠️ Tech Stack
 
