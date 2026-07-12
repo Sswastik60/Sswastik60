@@ -2,13 +2,13 @@
 
 🎓 B.Tech CSE Student
 💻 MERN Stack & React Native Developer
-🌱 Currently learning DSA in C++ and Next.js
+🌱 Currently learning DSA in C++
 🚀 Building full-stack applications
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,expo,python,nodejs,express,git,github,vscode,html,css" />
 </p>
 
 ## 📊 GitHub Stats
