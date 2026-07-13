@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student
 
-💻 MERN Stack & React Native Developer
+💻 MERN Stack & React Native(Expo) Developer
 
 🌱 Currently learning DSA in C++
 
