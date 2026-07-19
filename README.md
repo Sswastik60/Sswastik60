@@ -4,9 +4,9 @@
 
 💻 MERN Stack & React Native(Expo) Developer
 
-🌱 Currently learning DSA in C++
+🌱 Currently learning DSA in C++ 
 
-🚀 Building full-stack applications
+🚀 Building full-stack applications along with AI integrations
 
 
 ## 🛠️ Tech Stack
